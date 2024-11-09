@@ -1,4 +1,4 @@
-Lost and Found Tracker
+Lost and Found Tracker; FindIt App
 
 Description
 
